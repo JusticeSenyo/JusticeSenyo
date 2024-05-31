@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @JusticeSenyo
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript and c++
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me senyojustice36@gmail.com
-- 😄 Pronouns: Just call me by my name
-- ⚡ Fun fact: i'm a beginer
+- 😄 Pronouns: He
 
 <!---
 JusticeSenyo/JusticeSenyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
