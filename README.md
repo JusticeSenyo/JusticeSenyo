@@ -1,6 +1,6 @@
 # Hi there! 👋 
 
-I'm Senyo, a software engineer from Ghana.  
+I'm [Senyo](https://senyojustice.vercel.app/), a software engineer from Ghana.  
 
 I’m currently studying and learning more cool stuff be become the tech giant soon
 
