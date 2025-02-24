@@ -12,7 +12,7 @@ movies and anime and make cinematic content out of my life experiencecs
 
 ## Let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justice-senyo/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([your-link](https://www.youtube.com/channel/UCqJLKWaA4RI0LpMml0H3XIg)) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](your-link) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justice-senyo/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqJLKWaA4RI0LpMml0H3XIg) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](your-link) 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JusticeSenyo&layout=compact&theme=tokyonight)
